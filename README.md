@@ -8,3 +8,5 @@ https://docs.keyestudio.com/en/latest/docs/arduino/arduino%20starter%20kit.html
 https://www.botnroll.com/img/cms/ARD04035_pdf.pdf
 # SunFounder Universal Maker Sensor Kit - Arduino, ESP32 modules, Raspberry Pi test codes
 https://docs.sunfounder.com/projects/umsk/en/latest/#
+# 37-in-1-Sensors and fritzing files for ARDUINO AND RASPBERRY PI
+https://github.com/engrpanda/37-in-1-Sensors-and-fritzing-files/blob/master/README.md
