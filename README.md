@@ -13,7 +13,13 @@ https://www.botnroll.com/img/cms/ARD04035_pdf.pdf
 https://docs.sunfounder.com/projects/umsk/en/latest/#
 ### 37-in-1-Sensors and fritzing files for ARDUINO AND RASPBERRY PI
 https://github.com/engrpanda/37-in-1-Sensors-and-fritzing-files/blob/master/README.md
+### Freenove Ultimate Starter Kit for Arduino
+http://freenove.com/fnk0017
+### Freenove Complete Starter Kit for Raspberry Pi
+http://freenove.com/fnk0066
 ### SunFounder ESP32 Starter Kit
 https://docs.sunfounder.com/projects/esp32-starter-kit/en/latest/
 ### Keyestudio ESP32 42 in 1 Sensor Kit
 https://wiki.keyestudio.com/KS5003(KS5003F)KS5004(KS5004F)_Keyestudio_ESP32_42_in_1_Sensor_Kit#Projects
+### Freenove Ultimate Starter Kit for ESP32-S3
+http://freenove.com/fnk0082
