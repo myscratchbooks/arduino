@@ -3,6 +3,7 @@ https://sites.google.com/view/myscratchbooks/home/
 # Links
 ### Arduino Proteus library collection
 https://github.com/officialdanielamani/proteus-library-collection
+
 https://github.com/tecsantoshkumar/Proteus_Library
 ### Raspberry Pi 4 Library for Proteus
 https://images.theengineeringprojects.com/document/main/2023/08/raspberry-pi-4-library-for-proteus.zip
@@ -14,7 +15,9 @@ https://www.adeept.com/learn/detail-18.html
 https://www.adrive.com/public/CHXnm8/Adeept_Ultimate_Sensor_Kit_for_RPi_V1.3.zip
 ### Keyestudio 48 in 1 Sensor Kit - arduino test code
 https://docs.keyestudio.com/projects/KS0349/en/latest/
+
 https://docs.keyestudio.com/en/latest/docs/arduino/arduino%20starter%20kit.html
+
 https://www.botnroll.com/img/cms/ARD04035_pdf.pdf
 ### SunFounder Universal Maker Sensor Kit - Arduino, ESP32 modules, Raspberry Pi test codes
 https://docs.sunfounder.com/projects/umsk/en/latest/#
