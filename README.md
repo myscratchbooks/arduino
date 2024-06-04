@@ -27,8 +27,6 @@ https://github.com/engrpanda/37-in-1-Sensors-and-fritzing-files/blob/master/READ
 http://freenove.com/fnk0017
 ### Freenove Complete Starter Kit for Raspberry Pi
 http://freenove.com/fnk0066
-### OSOYOO / KOOKYE 16 in 1 Smart Home Sensor Kit
-https://osoyoo.com/2018/11/15/smart-home-iot-sensor-kit-for-arduino/
 ### SunFounder ESP32 Starter Kit
 https://docs.sunfounder.com/projects/esp32-starter-kit/en/latest/
 ### Keyestudio ESP32 42 in 1 Sensor Kit
