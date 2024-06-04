@@ -1,6 +1,13 @@
 # Home page:
 https://sites.google.com/view/myscratchbooks/home/
 # Links
+### Arduino Proteus library collection
+https://github.com/officialdanielamani/proteus-library-collection
+https://github.com/tecsantoshkumar/Proteus_Library
+### Raspberry Pi 4 Library for Proteus
+https://images.theengineeringprojects.com/document/main/2023/08/raspberry-pi-4-library-for-proteus.zip
+### ESP32 Library for Proteus
+https://images.theengineeringprojects.com/document/main/2023/07/esp32-library-for-proteus.zip
 ### Adeept Ultimate Starter Kit for Arduino UNO R3
 https://www.adeept.com/learn/detail-18.html
 ### Adeept 46 Modules Ultimate Sensor Kit for Raspberry Pi
@@ -23,3 +30,5 @@ https://docs.sunfounder.com/projects/esp32-starter-kit/en/latest/
 https://wiki.keyestudio.com/KS5003(KS5003F)KS5004(KS5004F)_Keyestudio_ESP32_42_in_1_Sensor_Kit#Projects
 ### Freenove Ultimate Starter Kit for ESP32-S3
 http://freenove.com/fnk0082
+### Yahboom Pico 21 sensors kit
+https://github.com/YahboomTechnology/Pico-sensor-kit
