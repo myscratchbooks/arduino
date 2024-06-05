@@ -35,3 +35,5 @@ https://wiki.keyestudio.com/KS5003(KS5003F)KS5004(KS5004F)_Keyestudio_ESP32_42_i
 http://freenove.com/fnk0082
 ### Yahboom Pico 21 sensors kit
 https://github.com/YahboomTechnology/Pico-sensor-kit
+### OSOYOO IoT Smart Home Kit with UDP APP Control
+https://osoyoo.com/2022/05/13/osoyoo-iot-smart-home-kit-with-udp-app-control/
